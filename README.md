@@ -1,6 +1,6 @@
 ``` some of changes
 
-# vue-learning-08-06
+# Vue-Self-Investigation
 
 ## Project setup
 ```
